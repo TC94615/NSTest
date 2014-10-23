@@ -232,6 +232,7 @@
 				F8054BF919F62D3400329DF8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
